@@ -14,4 +14,3 @@ try:
     print(my_square.__size)      # AttributeError: 'Square' object has no attribute '__size'
 except Exception as e:
     print(e)
-
